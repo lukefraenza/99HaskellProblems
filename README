@@ -1,0 +1,9 @@
+Title: 99 Haskell Problems
+Author: Luke Fraenza
+Date: 2010-02-19
+
+# Purpose #
+
+Problem 3 of Project Euler (highest prime factor of a ridiculously large composite number) 
+has proven to be bothersome, so I'll try to up my Haskell skills with this before I 
+tackle that again.
